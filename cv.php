@@ -6,6 +6,7 @@
   </head>
 
   <body>
+<?php require 'entete_cv.html' ?>
 	<section>
 	  <h2>Mon expérience</h2>
 		<ul>
